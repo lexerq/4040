@@ -4,4 +4,3 @@
 ![image](https://github.com/user-attachments/assets/23c5ea3b-f82a-4614-b50f-b5f60b76dac8)
 ![image](https://github.com/user-attachments/assets/4082ca62-fd7a-4d9d-b2b4-c14b47f5f68c)
 ![image](https://github.com/user-attachments/assets/f19bc9db-9f24-480c-ad42-30fffb8cf344)
-https://www.dart.ru/cataloguenew/ics/stm32/stm32pdf/stm32g031.pdf
